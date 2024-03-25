@@ -29,3 +29,11 @@ By incorporating these utilities into my workflow, I aim to maintain code qualit
 ---
 
 Feel free to explore the projects in this repository, and I hope you find them helpful in your own journey of learning C++!
+
+| Project No. | Repo | Score | Status |
+|:---:|:---:|:---:|:---:|
+| CPP 00 | [Github CPP Module 00](https://github.com/bazuara/CPP-Module-00) | 80 | ✅
+| CPP 01 | [Github CPP Module 01](https://github.com/bazuara/CPP-Module-01) | 90 | ✅
+| CPP 02 | [Github CPP Module 02](https://github.com/bazuara/CPP-Module-02) | 80 | ✅
+| CPP 03 | [Github CPP Module 03](https://github.com/bazuara/CPP-Module-03) | 80 | ✅
+| CPP 04 | [Github CPP Module 04](https://github.com/bazuara/CPP-Module-04) | pending | ⏳
