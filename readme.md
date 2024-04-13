@@ -36,4 +36,4 @@ Feel free to explore the projects in this repository, and I hope you find them h
 | CPP 01 | [Github CPP Module 01](https://github.com/bazuara/CPP-Module-01) | 90 | ✅
 | CPP 02 | [Github CPP Module 02](https://github.com/bazuara/CPP-Module-02) | 80 | ✅
 | CPP 03 | [Github CPP Module 03](https://github.com/bazuara/CPP-Module-03) | 80 | ✅
-| CPP 04 | [Github CPP Module 04](https://github.com/bazuara/CPP-Module-04) | pending | ⏳
+| CPP 04 | [Github CPP Module 04](https://github.com/bazuara/CPP-Module-04) | 90 | ✅
